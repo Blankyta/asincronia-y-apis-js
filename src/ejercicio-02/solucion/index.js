@@ -1,4 +1,4 @@
-const miPromise = new Promise((resolve, reject) => {
+const miPromisa = new Promise((resolve, reject) => {
   setTimeout(() => {
     resolve('Promise resuelta')
   }, 3000)
